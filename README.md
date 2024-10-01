@@ -1,2 +1,2 @@
 # Snake-Game
-this is my snake game project
+this is my snake game projects
